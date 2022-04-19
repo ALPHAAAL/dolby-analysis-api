@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dolby-analysis-api/static/css/main.0b4e74b4.css",
-    "main.js": "/dolby-analysis-api/static/js/main.403ffa2d.js",
+    "main.js": "/dolby-analysis-api/static/js/main.df8733ca.js",
     "index.html": "/dolby-analysis-api/index.html",
     "main.0b4e74b4.css.map": "/dolby-analysis-api/static/css/main.0b4e74b4.css.map",
-    "main.403ffa2d.js.map": "/dolby-analysis-api/static/js/main.403ffa2d.js.map"
+    "main.df8733ca.js.map": "/dolby-analysis-api/static/js/main.df8733ca.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.403ffa2d.js"
+    "static/js/main.df8733ca.js"
   ]
 }
